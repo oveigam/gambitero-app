@@ -1,0 +1,13 @@
+{
+    "components": {
+        "List": {
+            "appearances": {
+                "default": {
+                    "mapping": {
+                        "backgroundColor": "background-basic-color-1"
+                    }
+                }
+            }
+        }
+    }
+}

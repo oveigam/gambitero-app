@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Gambitero",
+    "slug": "gambitero-app",
+    "privacy": "unlisted",
+    "version": "0.5.0-alpha",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.oscarinadev.gambiteroapp",
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "icon": "./assets/icon.png"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "userInterfaceStyle": "automatic"
+  }
+}
