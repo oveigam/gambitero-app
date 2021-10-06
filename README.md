@@ -1,4 +1,4 @@
-
+![logo gambitero](https://raw.githubusercontent.com/oveigam/gambitero-app/master/assets/favicon.png)
 # Gambitero
 
 Gestiona y organiza planes (*"gambiteos"*) con tus amigos!
