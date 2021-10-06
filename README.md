@@ -27,7 +27,6 @@ Lista de tecnologías (principales) usadas para desarrollar la aplicación:
 -  **React Native (con expo):** Framework para desarrollar apps android/iOS
 -  **Redux (con redux-toolkit):** Para gestionar el estado e información de la app
 -  **UI Kitten:** Librería de componentes
--  **SockerIO:** Cliente par amostrar información en tiempo real
 
 ## Installation
 
