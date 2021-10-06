@@ -4,7 +4,7 @@ import { API_URL } from '@env';
 
 const DEBUG = process.env.NODE_ENV === "development";
 
-const AXIO_LOG = false;
+const AXIO_LOG = true;
 
 const axiosSetup = (store) => {
     // URL base de la api
