@@ -50,15 +50,6 @@ const LoginScreen = ({ navigation }) => {
                 />
                 <View style={styles.botonera}>
                     <Button style={styles.boton} onPress={onLoginClick} loading={loading}>ENTRAR</Button>
-                    <Button
-                        appearance="ghost"
-                        onPress={() => {
-                            Keyboard.dismiss()
-                            navigation.navigate("SignUp")
-                        }}
-                    >
-                        Aún no tienes cuenta? Regístrate!
-                    </Button>
                 </View>
             </View>
         </ScreenLayout>
