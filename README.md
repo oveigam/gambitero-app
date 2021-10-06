@@ -66,7 +66,7 @@ La demo tiene deshabilitada la creación de usuarios. Puedes conectarte con algu
 | mantis | gambitero |
 | mrajoy | gambitero |
 
-[APK para dispositivos Android]()
+[APK para dispositivos Android](https://github.com/oveigam/gambitero-app/releases/download/demo/gambitero-demo.apk)
 
 >  *Nota*: Para poder ejecutarla es necesario habilitar "Fuentes desconocidas"
 
